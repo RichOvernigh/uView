@@ -3,5 +3,5 @@
 /.idea/*
 deploy.sh
 .hbuilderx/
-
+/uview-ui/node_modules/*
 deploy
